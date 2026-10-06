@@ -5,7 +5,7 @@ int main(void)
     printf("|                  02. Pharmacy Stock and Expiry                |\n");
     printf("+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+\n");
 
-    printf("+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ MENU ~~~~~~~~~~~~~~~~~~~~~~~~~~~~+\n");
+    printf("+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ MENU ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+\n");
     printf("|   1.Receive a batch                                           |\n");
     printf("|   2.Sell strips                                               |\n");
     printf("|   3.Batches that are Expiring                                 |\n");

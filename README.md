@@ -1,4 +1,4 @@
 # PHARMACY_STOCK_AND_EXPIRY_PROJECT.
 This is our first project.  
-Author:1.Md. Rahid Al 
+Author:1.Md. Rahid Al Ishrak 
        2.Shahriar Sikder Mahi
